@@ -1,0 +1,34 @@
+ *{
+margin: 0%;
+padding: 0%;
+
+}
+body{
+    background-image: url(https://www.istockphoto.com/br/foto/ensino-fundamental-idade-bullying-na-escola-gm854198472-239465775?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_zsr&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbullyng&utm_term=bullyng%3A%3Asearch-explore-top-affiliate-outside-feed%3Adisabled);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+p{
+
+    font-size: 90px;
+    color:rgb(9, 49, 85);
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+p img{
+    width: 80px;
+    float: left;
+    margin-right: 10px;
+}
+
+#conteiner {
+   background-color: rgba(5, 5, 58, 0.363);
+    width:90%;
+    margin: auto;
+    height: 1000px;
+    padding: 20px;
+
+}
